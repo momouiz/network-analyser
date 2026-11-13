@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# never upload real captures, only the fake sample
+*.pcap
+*.pcapng
+!sample.pcap
+report*.txt
