@@ -18,7 +18,7 @@ It only reads saved capture files. **It does not sniff live traffic.**
 
 ## Why I built it
 
-After learning about TCP/IP and ports at school, I started using Wireshark. I wanted to understand what's actually inside a capture and try to spot something like an nmap scan with my own code instead of just clicking through Wireshark.
+I started using Wireshark to look at traffic on my own home network. I wanted to understand what's actually inside a capture and try to spot something like an nmap scan with my own code instead of just clicking through Wireshark.
 
 ## How to run it
 
